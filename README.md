@@ -21,3 +21,10 @@ Sample of a simple AR game using AR Foundation
 - Use of raycasting for get the different positions where the character will go.
 - Use of particle systems and lighting for the scene detail.
 - Simple architecture based on the use of Singleton Pattern for main game management objects and delegate events for communication between entities.
+
+## Screenshots
+
+![Screenshot1](https://github.com/santiandrade/Unity-ARFoundationSample/blob/master/Screenshots/Scenary1.PNG?raw=true)
+![Screenshot2](https://github.com/santiandrade/Unity-ARFoundationSample/blob/master/Screenshots/Scenary2.PNG?raw=true)
+![Screenshot3](https://github.com/santiandrade/Unity-ARFoundationSample/blob/master/Screenshots/Character.PNG?raw=true)
+![Screenshot4](https://github.com/santiandrade/Unity-ARFoundationSample/blob/master/Screenshots/RestartUI.PNG?raw=true)
